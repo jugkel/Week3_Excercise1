@@ -1,0 +1,136 @@
+------------------------
+/*global stylingn*/
+-------------------------
+body{
+  background-color:#033048;
+}
+
+header{
+  background-color:#033048;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display:inline;
+}
+
+.main_navigation li{
+    display:inline-block;
+    margin:20px;
+    text-align: center;
+}
+
+h1{
+     display:inline;
+     color:white;
+     font-size:3em;
+     margin-top:3em;
+     margin-left:2em;
+}
+
+section{
+  background-color: #f9e42e;
+  height:2em;
+}
+
+aside{
+  margin-top:3.5em;
+}
+
+.aside ul{
+  display:block;
+}
+main,aside{
+   display:inline-block;
+}
+
+main{
+  width:700px;
+  padding-left:100px;
+}
+
+aside{
+  width:240px;
+  float:right;
+  margin-right:200px;
+}
+
+nav{
+  height:4em;
+}
+.button{
+  text-align:center;
+  padding-top:2em;
+  padding-bottom:1.5em;
+}
+
+a{
+  text-decoration:none;
+  color:#033048;
+  padding-bottom:20px;
+  padding-top:20px;
+  float:right;
+}
+
+button{
+  width:200px;
+  height:30px;
+  color:white;
+  background-color: #033048;
+  border: 1px solid #121212;
+  box-sizing: border-box;
+}
+
+footer{
+  padding-top:-20px;
+}
+.social_media li{
+  display:inline-block;
+  margin-left:1em;
+}
+.social_media {
+  display: block;
+  text-align: center;
+  margin-top:-2em;
+}
+
+.main_navigation{
+  float:right;
+  color:#f9e42e;
+  margin-top:5px;
+  margin-right:2em;
+}
+
+h4{
+  font-size:50px;
+}
+
+.Relaxr_logo{
+ padding-top:3%;
+ color:#f9e42e;
+ font-size:3em;
+}
+
+
+.Ad_unit section{
+  float:left;
+  background-color: yellow;
+  padding-top:3em;
+}
+
+.About_Relaxr section{
+  background color:#f0efef;
+}
+
+
+footer{
+  background-color:#121212;
+  text-align: center;
+}
+
+footer p{
+  color:white;
+  padding-bottom:3%;
+}
